@@ -2,7 +2,7 @@
 #include <thread>
 #include <chrono>
 #include <cmath>
-
+// git clone test!
 const int NUM_FLOORS = 10;
 const int ELEVATOR_SPEED = 1; // 一層樓的運行時間（秒）
 
